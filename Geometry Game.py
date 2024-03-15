@@ -46,8 +46,8 @@ class GeometryGameGUI:
             6. A visual representation of the rectangle and point is displayed using matplotlib,
                with the rectangle outlined in red and the point marked in blue.
             7. The result (True if the point is inside the rectangle, False otherwise) is printed.
-            8. The user is asked if they wish to play again. If 'y' is selected, the game restarts;
-               otherwise, the game ends.
+            8. The user is asked if they wish to play again. If 'yes' is selected, the game restarts;
+               if 'no', the game ends.
 
             The game employs basic concepts of coordinate geometry and object-oriented programming
             to create an engaging educational tool. It demonstrates the use of classes, objects,
