@@ -1,3 +1,5 @@
+# Short-duration fast-paced Geometry Game enable with Tkinter GUI
+
 from math import sqrt
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
